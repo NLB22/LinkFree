@@ -1,0 +1,25 @@
+{
+  "name": "Abong Briand",
+  "type": "personal",
+  "bio": "Full stack web developer | Open Source | Passionate about crafting Websites with HTML & CSS learning Javascript"
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/abongmonju",
+      "icon": "FaTwitter"
+    },
+{
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@BriandInsight",
+      "icon": "FaYoutube"
+    },
+{
+      "name": "GitHub",
+      "url": "https://www.GitHub.com/@NLB22",
+      "icon": "FaGitHub"
+    },
+{
+      "name": "LinkedIn",
+      "url": "https://www.LinkedIn.com/@Abong Monju",
+      "icon": "FaLinkedIn"
+    },
